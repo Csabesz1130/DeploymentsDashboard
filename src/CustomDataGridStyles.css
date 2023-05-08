@@ -1,0 +1,12 @@
+/* Add this to your CSS or a CSS file and import it into your CustomDataGrid.tsx */
+.data-grid {
+  font-family: Arial, sans-serif;
+}
+
+.data-grid .data-grid-cell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  border-bottom: 1px solid #ccc;
+}
